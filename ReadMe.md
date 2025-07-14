@@ -24,6 +24,11 @@ gcc calculator.c -o calculator
 ```
 
 
-# PREVIEW
+### PREVIEW
 
 <img width="906" height="326" alt="image" src="https://github.com/user-attachments/assets/9f013533-df3e-4dfc-a960-473757a1dd7d" />
+
+### EXAMPLE 
+
+<img width="878" height="296" alt="image" src="https://github.com/user-attachments/assets/f56c32e0-bf1f-42d0-852a-0a571588a63d" />
+
